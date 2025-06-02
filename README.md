@@ -4,13 +4,7 @@ A C++ command-line application to view a GitHub user's recent activity, includin
 - Push events (which repositories have been pushed to)
 - Number of commits made
 - Starred repositories
-
-## Features
-
-- ✅ Fetch recent public GitHub activity using the GitHub Events API.
-- ✅ View starred repositories.
-- ✅ Change users interactively without restarting the program.
-
+- 
 ## Requirements
 
 Before you begin, ensure you have the following installed:
